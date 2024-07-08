@@ -1,3 +1,0 @@
-Data/Dataset/FeaturedBids.csv filter=lfs diff=lfs merge=lfs -text
-Data/Dataset/Cleaned_bids.csv filter=lfs diff=lfs merge=lfs -text
-Data/Dataset/bids.csv filter=lfs diff=lfs merge=lfs -text
